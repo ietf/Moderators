@@ -19,7 +19,7 @@ Before starting an engagement, inform and/or vet initial communications with the
   * Set expectations for this engagement
     * State correspondence will be including/forwarding to [saa@ietf.org][SAA-ML]
     * State the desired outcomes from the engagement
-    * State what the actions the SAA is (e.g., "request that you ... in furture messagts") and **is not** taking (e.g., "no PR restrictions")
+    * State what the actions the SAA is taking (e.g., "request that you ... in furture messagts") and **is not** taking (e.g., "no PR restrictions")
     * State how the SAA will escalate from here
     * State that the [OMBUDSTEAM] is being consulted, if warranted
 * **Specific**
