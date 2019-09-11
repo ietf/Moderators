@@ -13,7 +13,7 @@ RFC 3005 states that inappropriate postings to ietf@ietf.org include:
       
 "Unprofessional commentary" is not further described in RFC 3005. In some ways, it is an unfortunate term because the IETF is not considered by all to be a professional organization, and norms concerning professionalism can vary widely based on culture and context. But it is the term we have for now. For ietf@ietf.org to be a more functional list, the term requires further description, which is what this document seeks to do.
 
-Judgments about what is considered unprofessional commentary will necessarily always be subjective. The boundary between appropriate and inappropriate list conduct will never be a bright line. Human behavior and communication does not lend itself to the same precision that protocol engineering does.
+Judgments about what is considered unprofessional commentary will necessarily always be subjective. The boundary between appropriate and inappropriate list conduct will never be a bright line. Human behavior and communication do not lend themselves to the same precision that protocol engineering does.
 
 ## Descriptions
 
