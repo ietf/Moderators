@@ -10,7 +10,7 @@ The sergeants-at-arms strive to monitor all postings on ietf@ietf.org on a daily
 
 When a member of the SAA team sees a list posting that may be considered inappropriate according to [RFC 3005] and the [Unprofessional Commentary Description], the team member reports it to saa@ietf.org. Subscribers to ietf@ietf.org are also encouraged to report postings they believe to be inappropriate under those guidelines to saa@ietf.org. 
 
-A report made by a member of the SAA team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email templates].
+A report made by a member of the SAA team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
 
 ## Escalation ladder
 
@@ -30,7 +30,7 @@ The SAA team member also requests that the individual take a voluntary 5-day "co
 
 An SAA team member sends an off-list message to the individual on behalf of the SAA team, with saa@ietf.org on cc. This message clearly identifies the concern and offers assistance with re-framing language.
 
-The SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA is engaging with the individual.
+The SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA is continuing to engage with the individual.
 
 
 ## Engagement
@@ -59,3 +59,6 @@ Before starting an engagement, inform and/or vet initial communications with the
 [SAA-ML]: https://www.ietf.org/mailman/listinfo/saa
 [IETF-ARC]: https://mailarchive.ietf.org/arch/browse/ietf/
 [OMBUDSTEAM]: https://www.ietf.org/ombudsteam
+[RFC 3005]: https://tools.ietf.org/html/rfc3005
+[Unprofessional Commentary Description]:  https://github.com/linuxwolf/ietf-saa/blob/master/unprofessional-commentary.md
+[email templates]: https://github.com/linuxwolf/ietf-saa/tree/master/email%20templates
