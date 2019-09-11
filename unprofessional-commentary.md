@@ -21,7 +21,7 @@ The current sergeant-at-arms team considers the following types of language to b
 
 **Threats of violence**
 
-This includes incitement of violence toward any individual, including encouraging a person to commit self-harm.
+This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people’s personally identifying information (“doxxing”) online. 
 
 **Personal attacks**
 
@@ -34,3 +34,12 @@ This includes hurtful language related to the race, gender, gender identity and 
 ## Operating procedures
 
 See the Standard Operating Procedures to understand how the sergeant-at-arms team handles unprofessional commentary and other inappropriate postings.
+
+## Note
+
+The content of this document was influenced by the [Contributor Covenant], the [Django Code of Conduct], the [Mozilla Community Participation Guidelines] and [How to Respond to Code of Conduct Reports].
+
+[Contributor Covenant]: https://www.contributor-covenant.org/
+[Django Code of Conduct]: https://www.djangoproject.com/conduct/
+[Mozilla Community Participation Guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/
+[How to Respond to Code of Conduct Reports]: https://frameshiftconsulting.com/code-of-conduct-book/
