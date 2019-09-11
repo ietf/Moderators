@@ -1,0 +1,18 @@
+Hi [NAME],
+
+I am writing to you on behalf of the sergeant-at-arms (SAA) team for ietf@ietf.org. This message has been vetted with others on the SAA team, which is described in more detail at [1].
+
+We are reaching out to you because of your recent message to ietf@ietf.org [2]. The message contained the following language:
+
+[LANGUAGE]
+
+which the SAA team considers unprofessional commentary [3] for [REASON]. 
+
+Given our correspondence with you on [DATE] and [DATE], we believe you are engaging in a pattern of abuse that warrants a temporary restriction of your posting rights. Your posting rights will be restricted for the next 14 days and we will notify ietf@ietf.org of the restriction. We remain happy to discuss suggestions for how to convey your messages in an appropriate way if you would like to discuss that during this time.
+
+Thanks,
+[NAME]
+
+[1] https://www.ietf.org/how/lists/discussion/
+[2] [LINK to specific message]
+[3] [LINK to unprofessional-commentary]
