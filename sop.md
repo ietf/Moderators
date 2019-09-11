@@ -12,9 +12,9 @@ When a member of the SAA team sees a list posting that may be considered inappro
 
 A report made by a member of the SAA team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
 
-## Escalation ladder
+## Escalation ladder for handling inappropriate list postings
 
-The SAA team uses the escalation ladder below. At each step, the SAA team describes to the individual poster what the next step in the ladder is.
+The SAA team uses the escalation ladder below for handling inappropriate list postings. At each step, the SAA team describes to the individual poster what the next step in the ladder is.
 
 ### Level 0: Friendly suggestion
 
@@ -32,6 +32,13 @@ An SAA team member sends an off-list message to the individual on behalf of the 
 
 The SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA is continuing to engage with the individual.
 
+## Finding a more specific forum
+
+RFC 3005 explains that:
+
+"Discussions that fall within the area of any working group or well established list should be moved to such more specific forum as soon as this is pointed out, unless the issue is one for which the working group needs wider input or direction."
+
+The SAA team will make friendly suggestions in cases where discussions should be moved to more specific forums. 
 
 ## Engagement
 
@@ -55,6 +62,11 @@ Before starting an engagement, inform and/or vet initial communications with the
   * Remember "we are all human beings" -- the actor, the target, and possibly the subject
   * For a single incident, approach from the assumption of "good faith"
 
+## Note
+
+The content of this document was influenced by the [Django Code of Conduct], the [Mozilla Community Participation Guidelines] and [How to Respond to Code of Conduct Reports].
+
+
 ---
 [SAA-ML]: https://www.ietf.org/mailman/listinfo/saa
 [IETF-ARC]: https://mailarchive.ietf.org/arch/browse/ietf/
@@ -62,3 +74,7 @@ Before starting an engagement, inform and/or vet initial communications with the
 [RFC 3005]: https://tools.ietf.org/html/rfc3005
 [Unprofessional Commentary Description]:  https://github.com/linuxwolf/ietf-saa/blob/master/unprofessional-commentary.md
 [email templates]: https://github.com/linuxwolf/ietf-saa/tree/master/email%20templates
+[Contributor Covenant]: https://www.contributor-covenant.org/
+[Django Code of Conduct]: https://www.djangoproject.com/conduct/
+[Mozilla Community Participation Guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/
+[How to Respond to Code of Conduct Reports]: https://frameshiftconsulting.com/code-of-conduct-book/
