@@ -2,7 +2,7 @@
 
 ## Introduction
 
-RFC 3005 states that inappropriate postings to ietf@ietf.org include:
+[RFC 3005] states that inappropriate postings to ietf@ietf.org include:
 
 * Unsolicited bulk e-mail
 * Discussion of subjects unrelated to IETF policy, meetings,
@@ -33,12 +33,14 @@ This includes hurtful language related to the race, gender, gender identity and 
 
 ## Operating procedures
 
-See the Standard Operating Procedures to understand how the sergeant-at-arms team handles unprofessional commentary and other inappropriate postings.
+See the [Standard Operating Procedures] to understand how the sergeant-at-arms team handles unprofessional commentary and other inappropriate postings.
 
 ## Note
 
 The content of this document was influenced by the [Contributor Covenant], the [Django Code of Conduct], the [Mozilla Community Participation Guidelines] and [How to Respond to Code of Conduct Reports].
 
+[RFC 3005]: https://tools.ietf.org/html/rfc3005
+[Standard Operating Procedures]: https://github.com/linuxwolf/ietf-saa/blob/master/sop.md
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Django Code of Conduct]: https://www.djangoproject.com/conduct/
 [Mozilla Community Participation Guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/
