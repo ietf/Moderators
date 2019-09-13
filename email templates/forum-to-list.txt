@@ -1,0 +1,13 @@
+Hi all,
+
+We wanted to let the list know that the sergeant-at-arms (SAA) team (described in more detail at [1]) consider this thread [2] to be more appropriate for this [FORUM][3]. And as per the IETF discussion list charter [4], we suggest that the discussions should be moved to the more specific forums identified. 
+
+[The SAA team has been in touch with the [FORUM] administers off-list.] (if required)
+
+Thanks,
+[NAME] on behalf of the SAA team
+
+[1] https://www.ietf.org/how/lists/discussion/
+[2] [LINK to thread]
+[3] [LINK to join FORUM]
+[4] https://tools.ietf.org/html/rfc3005
