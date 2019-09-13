@@ -38,7 +38,15 @@ RFC 3005 explains that:
 
 "Discussions that fall within the area of any working group or well established list should be moved to such more specific forum as soon as this is pointed out, unless the issue is one for which the working group needs wider input or direction."
 
-The SAA team will make friendly suggestions in cases where discussions should be moved to more specific forums. 
+The SAA team will make friendly suggestions to the list in cases where discussions should be moved to more specific forums. 
+
+## Announcements
+
+RFC 3005 considers:
+
+"Announcements of conferences, events, or activities that are not sponsored or endorsed by the Internet Society or IETF" as inappropriate posting. 
+
+The SAA team will make friendly suggestion to the individual off-list (as well as send a reminder on the list) to avoid such posting. If a pattern of abuse emerges, we will consider temporarily restricting the posting rights to ietf@ietf.org. 
 
 ## Engagement
 
