@@ -35,6 +35,10 @@ This includes hurtful language related to the race, gender, gender identity and 
 
 See the [Standard Operating Procedures] to understand how the sergeant-at-arms team handles unprofessional commentary and other inappropriate postings.
 
+## Disruptive Behavior
+
+In some cases a particular post in itself may not be 'unprofessional commentary' but part of a pattern to 'disrupt the consensus-driven process'. This includes bad-faith excessive postings (denial-of-service attack). The sergeant-at-arms team would consider this as inappropriate and follow the escalation ladder for handling inappropriate list postings as per [Standard Operating Procedures].
+
 ## Note
 
 The content of this document was influenced by the [Contributor Covenant], the [Django Code of Conduct], the [Mozilla Community Participation Guidelines] and [How to Respond to Code of Conduct Reports].
