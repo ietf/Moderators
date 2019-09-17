@@ -10,7 +10,7 @@ The sergeants-at-arms strive to monitor all postings on ietf@ietf.org on a daily
 
 When a member of the SAA team sees a list posting that may be considered inappropriate according to [RFC 3005] and the [Unprofessional Commentary Description], the team member reports it to saa@ietf.org. Subscribers to ietf@ietf.org are also encouraged to report postings they believe to be inappropriate under those guidelines to saa@ietf.org. 
 
-A report made by a member of the SAA team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
+A report made by a member of the SAA team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email-templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
 
 ## Escalation ladder for handling inappropriate list postings
 
@@ -56,7 +56,7 @@ The content of this document was influenced by the [Django Code of Conduct], the
 ---
 [RFC 3005]: https://tools.ietf.org/html/rfc3005
 [Unprofessional Commentary Description]:  https://github.com/linuxwolf/ietf-saa/blob/master/unprofessional-commentary.md
-[email templates]: https://github.com/linuxwolf/ietf-saa/tree/master/email%20templates
+[email-templates]: https://github.com/linuxwolf/ietf-saa/tree/master/email-templates
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Django Code of Conduct]: https://www.djangoproject.com/conduct/
 [Mozilla Community Participation Guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/
