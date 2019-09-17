@@ -16,3 +16,7 @@ The content of this repository was influenced by the [Contributor Covenant], the
 
 ---
 [RFC 3005]: <https://tools.ietf.org/html/rfc3005>
+[Contributor Covenant]: https://www.contributor-covenant.org/
+[Django Code of Conduct]: https://www.djangoproject.com/conduct/
+[Mozilla Community Participation Guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/
+[How to Respond to Code of Conduct Reports]: https://frameshiftconsulting.com/code-of-conduct-book/
