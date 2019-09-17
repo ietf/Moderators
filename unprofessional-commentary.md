@@ -37,7 +37,7 @@ See the [Standard Operating Procedures] to understand how the sergeant-at-arms t
 
 ## Disruptive Behavior
 
-In some cases a particular post in itself may not be unprofessional commentary but part of a pattern of postings that are disruptive to the consensus-driven process (see [RFC 3934] and the [IESG Statement on Disruptive Posting]). The sergeant-at-arms team would consider this as inappropriate and follow the escalation ladder for handling inappropriate list postings as per [Standard Operating Procedures].
+In some cases a particular post in itself may not be unprofessional commentary but may be excessively hostile or derogatory, or part of a pattern of postings that are disruptive to the consensus-driven process (see [RFC 3934] and the [IESG Statement on Disruptive Posting]). The sergeant-at-arms team would consider this as inappropriate and follow the escalation ladder for handling inappropriate list postings as per [Standard Operating Procedures].
 
 ## Note
 
