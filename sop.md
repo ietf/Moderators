@@ -30,9 +30,7 @@ The SAA team member also requests that the individual take a voluntary 5-day "co
 
 An SAA team member sends an off-list message to the individual on behalf of the SAA team, with saa@ietf.org on cc. This message clearly identifies the concern and offers assistance with re-framing language.
 
-Subject to the approval by the IETF Chair, the SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days.  The SAA team member
-informs the individual that a note will be sent to ietf@ietf.org to
-inform the list that the SAA has restricted the posting rights.
+Subject to the approval by the IETF Chair, the SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days.  The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA has restricted the posting rights.
 
 ## Finding a more specific forum
 
