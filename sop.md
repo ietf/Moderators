@@ -8,7 +8,7 @@ The sergeant-at-arms (SAA) team consists of the sergeants-at-arms and the IETF C
 
 The sergeants-at-arms strive to monitor all postings on ietf@ietf.org on a daily basis. The IETF Chair also monitors the list but may not be in a position to read each message or monitor every day.
 
-When a member of the SAA team sees a list posting that may be considered inappropriate according to [RFC 3005] and the [Unprofessional Commentary Description], the team member reports it to saa@ietf.org. Subscribers to ietf@ietf.org are also encouraged to report postings they believe to be inappropriate under those guidelines to saa@ietf.org. 
+When IETF discussion list subscribers believe that a posting that may be considered inappropriate according to [RFC 3005] or the [Unprofessional Commentary Description], they are encouraged to report it to saa@ietf.org. Please note that SAA team members are also subscribers to the IETF discussion list and they follow the same process to report posts that they consider inappropriate.
 
 A report made by a member of the SAA team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email-templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
 
@@ -28,9 +28,9 @@ The SAA team member also requests that the individual take a voluntary 5-day "co
 
 ### Level 2: Temporary posting rights restriction
 
-An SAA team member sends an off-list message to the individual on behalf of the SAA team, with saa@ietf.org on cc. This message clearly identifies the concern and offers assistance with re-framing language.
+An SAA team member sends an off-list message to the individual on behalf of the SAA team, with saa@ietf.org on cc. This message clearly identifies the concern and the pattern of abuse, and offers assistance with re-framing language.
 
-The SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA is continuing to engage with the individual.
+Subject to the approval by the IETF Chair, the SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA has restricted their posting rights.
 
 ## Finding a more specific forum
 
@@ -38,7 +38,7 @@ RFC 3005 explains that:
 
 "Discussions that fall within the area of any working group or well established list should be moved to such more specific forum as soon as this is pointed out, unless the issue is one for which the working group needs wider input or direction."
 
-The SAA team will make friendly suggestions to the list in cases where discussions should be moved to more specific forums. 
+The SAA team will make friendly suggestions to the list in cases where discussions should be moved to more specific forums along with a pointer to the more specific forum(s). 
 
 ## Announcements
 
