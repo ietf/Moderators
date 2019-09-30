@@ -11,11 +11,11 @@ These are the templates used by the SAA to communicate with individuals and the 
   - [To list](./announcements-to-list.txt)
 * Unprofessional Commentary
   - [To sender](./first-message.txt)
-  - [To list](./first-message-to-list.txt)
 
 ## Level 1: Cooling off period
 
 * [To sender](./first-pattern-of-abuse-message.txt)
+* [To list](./first-message-to-list.txt)
 
 ## Level 2: Temporary posting rights restriction
 
