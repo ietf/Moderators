@@ -8,9 +8,9 @@ The sergeant-at-arms (SAA) team consists of the sergeants-at-arms and the IETF C
 
 The sergeants-at-arms strive to monitor all postings on ietf@ietf.org on a daily basis. The IETF Chair also monitors the list but may not be in a position to read each message or monitor every day.
 
-When IETF discussion list subscribers believe that a posting that may be considered inappropriate according to [RFC 3005] or the [Unprofessional Commentary Description], they are encouraged to report it to saa@ietf.org. Please note that SAA team members are also subscribers to the IETF discussion list and they follow the same process to report posts that they consider inappropriate.
+When IETF discussion list subscribers believe that a posting may be considered inappropriate according to [RFC 3005] or the [Unprofessional Commentary Description], they are encouraged to report it to saa@ietf.org. Please note that SAA team members are also subscribers to the IETF discussion list and they follow the same process to report posts that they consider inappropriate.
 
-A report made by a member of the SAA team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email-templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
+A report made by a member of the SAA team to the rest of the team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email-templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
 
 ## Escalation ladder for handling inappropriate list postings
 
