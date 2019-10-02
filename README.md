@@ -1,10 +1,10 @@
-# IETF Sergeant-at-Arms
+# IETF Sergeants-at-Arms
 
-A repository of guidelines, procedures, and templates used by the sergeant-at-arms (SAA).
+A repository of guidelines, procedures, and templates used by the IETF sergeants-at-arms (SAA).
 
-While [RFC 3005] creates the role sergeant-at-arms to act as a moderator for the ietf@ietf.org mailing list, the guidance for inappropriate postings and the actions to be taken are not well-defined.  This repository aims to address this lack of clarity.
+While [RFC 3005] creates the role of sergeant-at-arms to act as a moderator for the ietf@ietf.org mailing list, the guidance for inappropriate postings and the actions to be taken are not well-defined.  This repository aims to address this lack of clarity.
 
-* [Standard Operating Procedures](sop.md) outlines how and when the SAA engages to inappropriate postings, including escalation paths.
+* [Standard Operating Procedures](sop.md) outlines how and when the SAA engages with inappropriate postings, including escalation paths.
 * [Templates](email-templates) that engagement messages from the SAA adhere to.
 * A definition of [Unprofessional Commentary](unprofessional-commentary.md) the SAA follows.
 
