@@ -6,7 +6,7 @@ While [RFC 3005] creates the role sergeant-at-arms to act as a moderator for the
 
 * [Standard Operating Procedures](sop.md) outlines how and when the SAA engages to inappropriate postings, including escalation paths.
 * [Templates](email-templates) that engagement messages from the SAA adhere to.
-* A definition of [Unprofressional Commentary](unprofessional-commentary.md) the SAA follows.
+* A definition of [Unprofessional Commentary](unprofessional-commentary.md) the SAA follows.
 
 This set of documents is considered a work-in-progress, and is expected to evolve to meet the needs of the IETF.
 
