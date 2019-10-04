@@ -8,15 +8,17 @@ The sergeant-at-arms (SAA) team consists of the sergeants-at-arms and the IETF C
 
 The sergeants-at-arms strive to monitor all postings on ietf@ietf.org on a daily basis. The IETF Chair also monitors the list but may not be in a position to read each message or monitor every day.
 
-When IETF discussion list subscribers believe that a posting may be considered inappropriate according to [RFC 3005] or the [Unprofessional Commentary Description], they are encouraged to report it to saa@ietf.org. Please note that SAA team members are also subscribers to the IETF discussion list and they follow the same process to report posts that they consider inappropriate.
+When IETF discussion list subscribers believe that a posting may be considered inappropriate according to [RFC 3005] or the [Unprofessional Commentary Description], they are encouraged to report it to saa@ietf.org. SAA team members are also subscribers to the IETF discussion list and they follow the same process to report posts that they consider inappropriate.The SAA team will discuss all reports received and make a determination about whether they believe the posting was inappropriate. At least two team members must agree that a posting was inappropriate before the SAA team takes any action in response.
 
-A report made by a member of the SAA team to the rest of the team should include a suggested action in response, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email-templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
+When the SAA team determines that a posting is inappropriate, one team member suggests a response to the rest of the team, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
+
+
 
 ## Escalation ladder for handling inappropriate list postings
 
 The SAA team uses the escalation ladder below for handling inappropriate list postings. At each step, the SAA team describes to the individual poster what the next step in the ladder is.
 
-### Level 0: Friendly suggestion
+### Level 0: Initial suggestion
 
 An SAA team member sends an off-list message to the individual on behalf of the SAA team, with saa@ietf.org on cc. This message clearly identifies the concern, offers assistance with re-framing language, and identifies consequences for continued inappropriate postings.
 
@@ -38,7 +40,7 @@ RFC 3005 explains that:
 
 "Discussions that fall within the area of any working group or well established list should be moved to such more specific forum as soon as this is pointed out, unless the issue is one for which the working group needs wider input or direction."
 
-The SAA team will make friendly suggestions to the list in cases where discussions should be moved to more specific forums along with a pointer to the more specific forum(s). 
+The SAA team will make suggestions to the list in cases where discussions should be moved to more specific forums along with a pointer to the more specific forum(s). 
 
 ## Announcements
 
@@ -46,7 +48,7 @@ RFC 3005 considers:
 
 "Announcements of conferences, events, or activities that are not sponsored or endorsed by the Internet Society or IETF" as inappropriate posting. 
 
-The SAA team will make friendly suggestion to the individual off-list (as well as send a reminder on the list) to avoid such posting. If a pattern of abuse emerges, we will consider temporarily restricting the posting rights to ietf@ietf.org. 
+The SAA team will make an initial suggestion to the individual off-list (as well as send a reminder on the list) to avoid such posting. If a pattern of abuse emerges, we will consider temporarily restricting the posting rights to ietf@ietf.org. 
 
 ## Note
 
@@ -56,7 +58,7 @@ The content of this document was influenced by the [Django Code of Conduct], the
 ---
 [RFC 3005]: https://tools.ietf.org/html/rfc3005
 [Unprofessional Commentary Description]:  https://github.com/linuxwolf/ietf-saa/blob/master/unprofessional-commentary.md
-[email-templates]: https://github.com/linuxwolf/ietf-saa/tree/master/email-templates
+[email templates]: https://github.com/linuxwolf/ietf-saa/tree/master/email-templates
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Django Code of Conduct]: https://www.djangoproject.com/conduct/
 [Mozilla Community Participation Guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/
