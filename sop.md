@@ -33,6 +33,10 @@ An SAA team member sends an off-list message to the individual on behalf of the 
 
 Subject to the approval by the IETF Chair, the SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA has restricted their posting rights. The SAA team member then sends that note to ietf@ietf.org.
 
+### Immediate escalation in egregious cases
+
+In cases where postings contain egregious language, the SAA team has the discretion to skip level 0 and go straight to level 1. For example, a posting that says "I'm coming to murder you and your family" would warrant an immediate escalation to level 1.
+
 ## Finding a more specific forum
 
 RFC 3005 explains that:
