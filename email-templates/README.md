@@ -2,7 +2,7 @@
 
 These are the templates used by the SAA to communicate with individuals and the list about an incident, grouped by escalation level, then by category (where applicable) and intended recipient.
 
-## Level 0: Friendly suggestion
+## Level 0: Initial suggestion
 
 * Appropriate Forum
   - [To List](./forum-to-list.txt)
