@@ -6,7 +6,7 @@ These are the templates used by the SAA to communicate with individuals and the 
 
 * Appropriate Forum
   - [To List](./forum-to-list.txt)
-* Unauthorized Announcments
+* Unauthorized Announcements
   - [To sender](./announcements.txt)
   - [To list](./announcements-to-list.txt)
 * Unprofessional Commentary
