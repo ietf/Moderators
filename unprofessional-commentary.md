@@ -23,9 +23,9 @@ The current sergeant-at-arms team considers the following types of language to b
 
 This includes incitement of violence toward any individual, including encouraging a person to commit self-harm. This also includes posting or threatening to post other people’s personally identifying information (“doxxing”) online. 
 
-**Personal attacks**
+**Attacks**
 
-Personal attacks include attacking people for their opinions, beliefs, or ideas rather than criticizing the opinions, beliefs, and ideas themselves. Personal attacks also include name-calling and insulting, demeaning, or belittling others. 
+Attacks can come in several forms. They include personally attacking people for their opinions, beliefs, or ideas rather than criticizing the opinions, beliefs, and ideas themselves. They include name-calling, insulting, demeaning, and belittling people. They also include criticizing an idea in an insulting or excessively hostile manner. 
 
 **Derogatory language**
 
@@ -37,7 +37,7 @@ See the [Standard Operating Procedures] to understand how the sergeant-at-arms t
 
 ## Disruptive Behavior
 
-In some cases a particular post in itself may not be unprofessional commentary but may be excessively hostile or derogatory, or part of a pattern of postings that are disruptive to the consensus-driven process (see [RFC 3934] and the [IESG Statement on Disruptive Posting]). The sergeant-at-arms team would consider this as inappropriate and follow the escalation ladder for handling inappropriate list postings as per [Standard Operating Procedures].
+In some cases a particular post in itself may not be unprofessional commentary but may be part of a pattern of postings that are disruptive to the consensus-driven process (see [RFC 3934] and the [IESG Statement on Disruptive Posting]). The sergeant-at-arms team would consider this as inappropriate and follow the escalation ladder for handling inappropriate list postings as per [Standard Operating Procedures].
 
 ## Note
 
