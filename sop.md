@@ -13,25 +13,25 @@ When IETF discussion list subscribers believe that a posting may be considered i
 When the SAA team determines that a posting is inappropriate, one team member suggests a response to the rest of the team, including specific text for email(s) to the original poster and/or the list, as appropriate. The SAA team uses a standard set of [email templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other SAA team member before being sent.
 
 
-## Escalation ladder for handling postings containing unprofessional commentary
+## Escalation ladder for handling unprofessional commentary and disruptive behavior
 
-The SAA team uses the escalation ladder below for handling postings containing unprofessional commentary. At each step, the SAA team describes to the individual poster what the next step in the ladder is.
+The SAA team uses the escalation ladder below for handling disruptive behavior and postings containing unprofessional commentary. At each step, the SAA team describes to the individual poster what the next step in the ladder is.
 
 ### Level 0: Initial suggestion
 
-For postings containing unprofessional commentary, an SAA team member sends an off-list message to the individual on behalf of the SAA team, with saa@ietf.org on cc. This message clearly identifies the concern, offers assistance with re-framing language, and identifies consequences for continued inappropriate postings.
+An SAA team member sends an off-list message to the individual on behalf of the SAA team. This message clearly identifies the concern, offers assistance with re-framing language, and identifies consequences for continued inappropriate postings.
 
 ### Level 1: Cooling off period
 
-An SAA team member sends an off-list message to the individual on behalf of the SAA team, with saa@ietf.org on cc. This message clearly identifies the concern, offers assistance with re-framing language, and identifies consequences for continued inappropriate postings. 
+An SAA team member sends an off-list message to the individual on behalf of the SAA team. This message clearly identifies the concern, offers assistance with re-framing language, and identifies consequences for continued inappropriate postings. 
 
-The SAA team member also requests that the individual take a voluntary 5-day "cooling off" period during which time the individual does not send email to ietf@ietf.org. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA is engaging with the individual. The SAA team member then sends that note to ietf@ietf.org.
+The SAA team member also requests that the individual take a voluntary 5-day "cooling off" period during which time the individual does not send email to ietf@ietf.org. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA is engaging with the individual. The SAA team member sends that note to ietf@ietf.org shortly thereafter.
 
 ### Level 2: Temporary posting rights restriction
 
-An SAA team member sends an off-list message to the individual on behalf of the SAA team, with saa@ietf.org on cc. This message clearly identifies the concern and the pattern of abuse, and offers assistance with re-framing language.
+An SAA team member sends an off-list message to the individual on behalf of the SAA team. This message clearly identifies the concern and the pattern of abuse, and offers assistance with re-framing language.
 
-Subject to the approval by the IETF Chair, the SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA has restricted their posting rights. The SAA team member then sends that note to ietf@ietf.org.
+Subject to the approval by the IETF Chair, the SAA team member also informs the individual that his or her posting rights to ietf@ietf.org will be restricted for 14 days. The SAA team member informs the individual that a note will be sent to ietf@ietf.org to inform the list that the SAA has restricted their posting rights. The SAA team member sends that note to ietf@ietf.org shortly thereafter.
 
 ### Immediate escalation in egregious cases
 
@@ -43,15 +43,15 @@ RFC 3005 explains that:
 
 "Discussions that fall within the area of any working group or well established list should be moved to such more specific forum as soon as this is pointed out, unless the issue is one for which the working group needs wider input or direction."
 
-The SAA team will make suggestions to the list in cases where discussions should be moved to more specific forums along with a pointer to the more specific forum(s). 
+The SAA team will make suggestions to the list in cases where discussions should be moved to more specific forum(s) along with a pointer to the more specific forum(s). 
 
 ## Announcements
 
 RFC 3005 considers:
 
-"Announcements of conferences, events, or activities that are not sponsored or endorsed by the Internet Society or IETF" as inappropriate posting. 
+"Announcements of conferences, events, or activities that are not sponsored or endorsed by the Internet Society or IETF" as inappropriate postings. 
 
-The SAA team will make an initial suggestion to the individual off-list (as well as send a reminder on the list) to avoid such posting. If a pattern of abuse emerges, we will consider temporarily restricting the posting rights to ietf@ietf.org. 
+The SAA team will make an initial suggestion to the individual off-list (as well as send a reminder on the list) to avoid such postings. If a pattern of abuse emerges, we will consider temporarily restricting the posting rights to ietf@ietf.org. 
 
 ## Note
 
