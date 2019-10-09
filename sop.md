@@ -2,7 +2,7 @@
 
 ## Personnel
 
-The sergeant-at-arms (SAA) team consists of the sergeants-at-arms and the IETF Chair. They can all be reached at saa@ietf.org, which has a private email accessible only to the SAA team.
+The sergeant-at-arms (SAA) team consists of the sergeants-at-arms and the IETF Chair. They can all be reached at saa@ietf.org.
 
 ## General operations
 
