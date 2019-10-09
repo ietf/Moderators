@@ -9,7 +9,7 @@ These are the templates used by the SAA to communicate with individuals and the 
 * Unauthorized Announcements
   - [To sender](./announcements.txt)
   - [To list](./announcements-to-list.txt)
-* Unprofessional Commentary
+* Unprofessional Commentary and Disruptive Behavior
   - [To sender](./first-message.txt)
 
 ## Level 1: Cooling off period
