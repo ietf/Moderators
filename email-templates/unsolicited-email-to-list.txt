@@ -1,0 +1,10 @@
+Hi all,
+
+We wanted to let the list know that the sergeant-at-arms (SAA) team (described in more detail at [1]) has been in touch with [NAME] off-list concerning their recent message [2]. We encourage everyone to review the IETF discussion list charter [3] and avoid postings of unsolicited bulk email. 
+
+Thanks,
+[NAME] on behalf of the SAA team
+
+[1] https://www.ietf.org/how/lists/discussion/
+[2] [LINK to specific message 1]
+[3] https://tools.ietf.org/html/rfc3005
