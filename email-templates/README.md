@@ -9,6 +9,9 @@ These are the templates used by the SAA to communicate with individuals and the 
 * Unauthorized Announcements
   - [To sender](./announcements.txt)
   - [To list](./announcements-to-list.txt)
+* Unsolicited Email
+  - [To sender](./unsolicited-email.txt)
+  - [To list](./unsolicited-email-to-list.txt)
 * Unprofessional Commentary and Disruptive Behavior
   - [To sender](./first-message.txt)
 
