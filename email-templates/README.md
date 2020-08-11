@@ -16,11 +16,19 @@ These are the templates used by the SAA to communicate with individuals and the 
   - [To sender](./first-message.txt)
 
 ## Level 1: Cooling off period
-
+### Unprofessional Commentry
 * [To sender](./first-pattern-of-abuse-message.txt)
 * [To list](./first-message-to-list.txt)
 
-## Level 2: Temporary posting rights restriction
+### Moderation
+* [To sender](./first-moderation-thread-message.txt)
+* [To list](./first-moderation-message-to-list.txt)
 
+## Level 2: Temporary posting rights restriction
+### Unprofessional Commentry
 * [To sender](./second-pattern-of-abuse-message.txt)
 * [To list](./PR-message-to-list.txt)
+
+### Moderation
+* [To sender](./second-moderation-thread-message.txt)
+* [To list](./PR-moderation-message-to-list.txt)
