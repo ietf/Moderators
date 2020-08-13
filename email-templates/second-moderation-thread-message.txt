@@ -2,7 +2,7 @@ Hi [NAME],
 
 I am writing to you on behalf of the sergeant-at-arms (SAA) team for ietf@ietf.org. This message has been vetted with others on the SAA team, which is described in more detail at [1].
 
-We are reaching out to you because of your recent your recent message to ietf@ietf.org [2] under a new subject line but on the same topic against the direction from the IETF Chair [3]. 
+We are reaching out to you because of your recent message to ietf@ietf.org [2] under a new subject line but on the same topic against the direction from the IETF Chair [3]. 
 
 Given our correspondence with you on [DATE], we believe you are engaging in a pattern of abuse that warrants a temporary restriction of your posting rights. Your posting rights will be restricted for the next 14 days and we will notify ietf@ietf.org of the restriction as per our SOP [4]. 
 
