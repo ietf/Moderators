@@ -8,14 +8,14 @@ The Moderators team can be reached at saa@ietf.org.
 
 The Moderators strive to monitor all postings on ietf@ietf.org on a daily basis. The IETF Chair also monitors the list but may not be in a position to read each message or monitor every day.
 
-When IETF discussion list subscribers believe that a posting may be considered inappropriate according to [RFC XXXX] or the [Unprofessional Commentary Description], they are encouraged to report it to saa@ietf.org. Moderators team members are also subscribers to the IETF discussion list and they follow the same process to report posts that they consider inappropriate.The Moderators team will discuss all reports received and make a determination about whether they believe the posting was inappropriate. At least two team members must agree that a posting was inappropriate before the Moderators team takes any action in response.
+When IETF discussion list subscribers believe that a posting may be considered inappropriate according to [RFC XXXX] or the [Uncivil Commentary Description], they are encouraged to report it to saa@ietf.org. Moderators team members are also subscribers to the IETF discussion list and they follow the same process to report posts that they consider inappropriate.The Moderators team will discuss all reports received and make a determination about whether they believe the posting was inappropriate. At least two team members must agree that a posting was inappropriate before the Moderators team takes any action in response.
 
 When the Moderators team determines that a posting is inappropriate, one team member suggests a response to the rest of the team, including specific text for email(s) to the original poster and/or the list, as appropriate. The Moderators team uses a standard set of [email templates]. Proposed emails to either individuals or to the list must be vetted and approved by at least one other Moderators team member before being sent.
 
 
-## Escalation ladder for handling unprofessional commentary and disruptive behavior
+## Escalation ladder for handling Uncivil commentary and disruptive behavior
 
-The Moderators team uses the escalation ladder below for handling disruptive behavior and postings containing unprofessional commentary. At each step, the Moderators team describes to the individual poster what the next step in the ladder is.
+The Moderators team uses the escalation ladder below for handling disruptive behavior and postings containing uncivil commentary. At each step, the Moderators team describes to the individual poster what the next step in the ladder is.
 
 ### Level 0: Initial suggestion
 
@@ -60,7 +60,7 @@ The content of this document was influenced by the [Django Code of Conduct], the
 
 ---
 [RFC XXXX]: https://datatracker.ietf.org/doc/rfcXXXX/
-[Unprofessional Commentary Description]:  https://github.com/linuxwolf/ietf-saa/blob/master/unprofessional-commentary.md
+[Uncivil Commentary Description]:  https://github.com/linuxwolf/ietf-saa/blob/master/unprofessional-commentary.md
 [email templates]: https://github.com/linuxwolf/ietf-saa/tree/master/email-templates
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Django Code of Conduct]: https://www.djangoproject.com/conduct/
