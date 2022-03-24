@@ -1,6 +1,6 @@
 Hi [NAME],
 
-I am writing to you on behalf of the sergeant-at-arms (SAA) team for ietf@ietf.org. This message has been vetted with others on the SAA team, which is described in more detail at [1].
+I am writing to you on behalf of the Moderators team for ietf@ietf.org. This message has been vetted with others on the SAA team, which is described in more detail at [1].
 
 We are reaching out to you because of your recent message to ietf@ietf.org [2]. The message includes announcements of conferences, events, or activities that are not sponsored or endorsed by the Internet Society or IETF as per [3]. Please try to avoid sending these messages on ietf@ietf.org in the future. You can reach the IETF chair at chair@ietf.org to seek approval before sending. 
 
@@ -11,4 +11,4 @@ Thanks,
 
 [1] https://www.ietf.org/how/lists/discussion/
 [2] [LINK to specific message]
-[3] https://tools.ietf.org/html/rfc3005
+[3] https://datatracker.ietf.org/doc/rfcXXXX/
