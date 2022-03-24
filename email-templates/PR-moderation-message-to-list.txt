@@ -1,6 +1,6 @@
 Hi all,
 
-We wanted to let the list know that the sergeant-at-arms (SAA) team (described in more detail at [1]) has determined that [NAME] has engaged in a pattern of abuse based on their recent messages to this list [2][3] under a new subject line but on the same topic against the direction from the IETF chair to bar posting on the thread [4]. Their posting rights to the ietf@ietf.org mailing list have been restricted for the next 14 days.  We encourage everyone to review the IETF discussion list charter [5] and our SOP [6]. 
+We wanted to let the list know that the Moderators team (described in more detail at [1]) has determined that [NAME] has engaged in a pattern of abuse based on their recent messages to this list [2][3] under a new subject line but on the same topic against the direction from the IETF chair to bar posting on the thread [4]. Their posting rights to the ietf@ietf.org mailing list have been restricted for the next 14 days.  We encourage everyone to review the IETF discussion list charter [5] and our SOP [6]. 
 
 Thanks,
 [NAME] on behalf of the SAA team
@@ -9,6 +9,6 @@ Thanks,
 [2] [LINK to specific message 1]
 [3] [LINK to specific message 2]
 [4] [LINK to the IETF chair message to the list]
-[5] https://tools.ietf.org/html/rfc3005
+[5] https://datatracker.ietf.org/doc/rfcXXXX/
 [6] [LINK to SOP]
 
