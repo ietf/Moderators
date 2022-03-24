@@ -1,6 +1,6 @@
 Hi all,
 
-We wanted to let the list know that the Moderators team (described in more detail at [1]) has been in touch with [NAME] off-list concerning their recent messages [2][3]. We encourage everyone to review the IETF discussion list charter [4] and avoid postings that include unprofessional commentary [5]. 
+We wanted to let the list know that the Moderators team (described in more detail at [1]) has been in touch with [NAME] off-list concerning their recent messages [2][3]. We encourage everyone to review the IETF discussion list charter [4] and avoid postings that include uncivil commentary [5]. 
 
 Thanks,
 [NAME] on behalf of the Moderators team
