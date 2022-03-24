@@ -1,4 +1,4 @@
-# IETF Moderators (formally Sergeants-at-Arms)
+# IETF Moderators (formally Sergeants-at-Arms(SAA))
 
 This is a repository of guidelines, procedures, and templates used by the IETF Moderators team. The goal of the Moderators team is to foster an environment of digntity, decency, and respect on ietf@ietf.org where everyone feels welcome to contribute.
 
