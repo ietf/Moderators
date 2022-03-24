@@ -1,8 +1,8 @@
 Hi [NAME],
 
-I am writing to you on behalf of the Moderators team for ietf@ietf.org. This message has been vetted with others on the SAA team, which is described in more detail at [1].
+I am writing to you on behalf of the Moderators team for ietf@ietf.org. This message has been vetted with others on the Moderators team, which is described in more detail at [1].
 
-We are reaching out to you because of your recent message to ietf@ietf.org [2]. The message includes announcements of conferences, events, or activities that are not sponsored or endorsed by the Internet Society or IETF as per [3]. Please try to avoid sending these messages on ietf@ietf.org in the future. You can reach the IETF chair at chair@ietf.org to seek approval before sending. 
+We are reaching out to you because of your recent message to ietf@ietf.org [2]. The message includes announcements of conferences, events, or activities that are not sponsored or endorsed by the IETF, IRTF, IAB or the Internet Society as per [3]. Please try to avoid sending these messages on ietf@ietf.org in the future. You can reach the IETF chair at chair@ietf.org to seek approval before sending. 
 
 We consider this an initial suggestion. We do not believe your message is part of a pattern of abuse that would warrant the restriction of your posting rights. We will be notifying ietf@ietf.org that we have been in touch with you. If a pattern emerges, we will consider temporarily restricting your posting rights to ietf@ietf.org.
 
