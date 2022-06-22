@@ -2,20 +2,17 @@
 
 ## Introduction
 
-[RFC XXXX] states that inappropriate postings to ietf@ietf.org include:
+[RFC 9245] states that inappropriate postings to ietf@ietf.org include:
 
    *  Advertising and other unsolicited bulk e-mail
 
-   *  Discussion of subjects unrelated to IETF policy, meetings,
-      activities, or technical topics
+   *  Discussion of subjects unrelated to IETF policy, meetings, activities, or technical topics
 
-   *  Uncivil commentary, regardless of the general subject, per the
-      IETF Note Well [NOTE-WELL]
+   *  Uncivil commentary, regardless of the general subject, per the IETF Note Well [NOTE-WELL]
 
-   *  Announcements of conferences, events, or activities that are not
-      sponsored or endorsed by the Internet Society or the IETF.
+   *  Announcements of conferences, events, or activities that are not sponsored or endorsed by the IETF, IRTF, IAB, or the Internet Society.
       
-"Uncivil commentary" is not further described in RFC XXXX. For ietf@ietf.org to be a more functional list, the term requires further description, which is what this document seeks to do.
+"Uncivil commentary" is not further described in RFC 9245. For ietf@ietf.org to be a more functional list, the term requires further description, which is what this document seeks to do.
 
 Judgments about what is considered Uncivil commentary will necessarily always be subjective. The boundary between appropriate and inappropriate list conduct will never be a bright line. Human behavior and communication do not lend themselves to the same precision that protocol engineering does.
 
@@ -47,7 +44,7 @@ In some cases a particular post in itself may not be uncivil commentary but may 
 
 The content of this document was influenced by the [Contributor Covenant], the [Django Code of Conduct], the [Mozilla Community Participation Guidelines] and [How to Respond to Code of Conduct Reports].
 
-[RFC XXXX]: https://datatracker.ietf.org/doc/rfcXXXX/
+[RFC 9245]: https://www.rfc-editor.org/rfc/rfc9245.html
 [Standard Operating Procedures]: https://github.com/linuxwolf/ietf-saa/blob/master/sop.md
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Django Code of Conduct]: https://www.djangoproject.com/conduct/
