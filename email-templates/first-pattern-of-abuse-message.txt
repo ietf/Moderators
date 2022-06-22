@@ -13,7 +13,7 @@ We are concerned that this message is part of an emerging pattern of abuse on yo
 If you wish for us to make this message public, please let us know and we will re-send it with ietf@ietf.org on cc.
 
 Thanks,
-[NAME] on behalf of the Moderators team
+[NAME] on behalf of the Moderators team for ietf@ietf.org
 
 [1] https://www.ietf.org/how/lists/discussion/
 [2] https://www.rfc-editor.org/rfc/rfc9245.html
