@@ -34,22 +34,21 @@ This includes hurtful language related to the race, gender, gender identity and 
 
 ## Operating procedures
 
-See the [Standard Operating Procedures] to understand how the Moderators team handles uncivil commentary and other inappropriate postings.
+See the [Standard Operating Procedures](sop.md) to understand how the Moderators team handles uncivil commentary and other inappropriate postings.
 
 ## Disruptive Behavior
 
-In some cases a particular post in itself may not be uncivil commentary but may be part of a pattern of postings that are disruptive to the consensus-driven process (see [RFC 3934] and the [IESG Statement on Disruptive Posting]). The Moderators team would consider this as inappropriate and follow the escalation ladder for handling postings containing uncivil commentary as per [Standard Operating Procedures].
+In some cases a particular post in itself may not be uncivil commentary but may be part of a pattern of postings that are disruptive to the consensus-driven process (see [RFC 3934] and the [IESG Statement on Disruptive Posting]). The Moderators team would consider this as inappropriate and follow the escalation ladder for handling postings containing uncivil commentary as per [Standard Operating Procedures](sop.md).
 
 ## Note
 
 The content of this document was influenced by the [Contributor Covenant], the [Django Code of Conduct], the [Mozilla Community Participation Guidelines] and [How to Respond to Code of Conduct Reports].
 
 [RFC 9245]: https://www.rfc-editor.org/rfc/rfc9245.html
-[Standard Operating Procedures]: https://github.com/linuxwolf/ietf-saa/blob/master/sop.md
 [Contributor Covenant]: https://www.contributor-covenant.org/
 [Django Code of Conduct]: https://www.djangoproject.com/conduct/
 [Mozilla Community Participation Guidelines]: https://www.mozilla.org/en-US/about/governance/policies/participation/
 [How to Respond to Code of Conduct Reports]: https://frameshiftconsulting.com/code-of-conduct-book/
 [IESG Statement on Disruptive Posting]: https://www.ietf.org/about/groups/iesg/statements/disruptive-posting/?topic=20&
 [RFC 3934]: https://tools.ietf.org/html/rfc3934
-
+[NOTE-WELL]: https://ietf.org/about/note-well/
