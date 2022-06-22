@@ -5,7 +5,7 @@ We wanted to let the list know that the Moderators team (described in more detai
 [The Moderators team has been in touch with the [LIST] administers off-list.] (if required)
 
 Thanks,
-[NAME] on behalf of the IETF list Moderators team
+[NAME] on behalf of the Moderators team for ietf@ietf.org
 
 [1] https://www.ietf.org/how/lists/discussion/
 [2] [LINK to thread]
