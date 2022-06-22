@@ -7,8 +7,8 @@ We are reaching out to you because of your recent message to ietf@ietf.org [2]. 
 We consider this an initial suggestion. We do not believe your message is part of a pattern of abuse that would warrant the restriction of your posting rights. We will be notifying ietf@ietf.org that we have been in touch with you. If a pattern emerges, we will consider temporarily restricting your posting rights to ietf@ietf.org.
 
 Thanks,
-[NAME] on behalf of the Moderators team
+[NAME] on behalf of the Moderators team for ietf@ietf.org
 
 [1] https://www.ietf.org/how/lists/discussion/
 [2] [LINK to specific message]
-[3] https://datatracker.ietf.org/doc/rfcXXXX/
+[3] https://www.rfc-editor.org/rfc/rfc9245.html
