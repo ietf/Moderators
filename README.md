@@ -1,7 +1,7 @@
 # IETF Moderators 
-#### *Formally called Sergeants-at-Arms(SAA)*
+#### *Formerly called Sergeants-at-Arms(SAA)*
 
-This is a repository of guidelines, procedures, and templates used by the IETF Moderators team (formally called Sergeants-at-Arms(SAA)). The goal of the Moderators team is to foster an environment of digntity, decency, and respect on ietf@ietf.org where everyone feels welcome to contribute.
+This is a repository of guidelines, procedures, and templates used by the IETF Moderators team (formerly called Sergeants-at-Arms(SAA)). The goal of the Moderators team is to foster an environment of digntity, decency, and respect on ietf@ietf.org where everyone feels welcome to contribute.
 
 While [RFC 9245] creates the role of Moderators for the ietf@ietf.org mailing list, the guidance for inappropriate postings and the actions to be taken are not well-defined.  This repository aims to address this lack of clarity.
 
