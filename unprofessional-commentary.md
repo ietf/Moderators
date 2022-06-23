@@ -8,7 +8,7 @@
 
    *  Discussion of subjects unrelated to IETF policy, meetings, activities, or technical topics
 
-   *  Uncivil commentary, regardless of the general subject, per the IETF Note Well [NOTE-WELL]
+   *  Uncivil commentary, regardless of the general subject, per the IETF [NOTE-WELL]
 
    *  Announcements of conferences, events, or activities that are not sponsored or endorsed by the IETF, IRTF, IAB, or the Internet Society.
       
