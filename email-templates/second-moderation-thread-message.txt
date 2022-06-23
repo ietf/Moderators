@@ -13,4 +13,4 @@ Thanks,
 [2] https://www.rfc-editor.org/rfc/rfc9245.html
 [3] [LINK to specific message]
 [4] [LINK to the IETF chair message to the list]
-[5] https://github.com/ietf/saa/blob/main/sop.md
+[5] https://github.com/ietf/Moderators/blob/main/sop.md
