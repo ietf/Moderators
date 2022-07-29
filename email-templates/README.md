@@ -14,6 +14,8 @@ These are the templates used by the Moderators to communicate with individuals a
   - [To list](./unsolicited-email-to-list.txt)
 * Uncivil Commentary and Disruptive Behavior
   - [To sender](./first-message.txt)
+* Out of Scope 
+  - [To sender](./out-of-scope.txt)
 
 ## Level 1: Cooling off period
 ### Uncivil Commentry
