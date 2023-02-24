@@ -9,4 +9,4 @@
 
 (*) 3 additional actions were taken when a thread was put under moderation but rescinded.
 
-Since 2020, we have reached out to 9 unique individuals.
+Since 2020, we have reached out to 14 unique individuals.
