@@ -15,6 +15,10 @@ This set of documents is considered a work-in-progress, and is expected to evolv
 
 The content of this repository was influenced by the [Contributor Covenant], the [Django Code of Conduct], the [Mozilla Community Participation Guidelines] and [How to Respond to Code of Conduct Reports].
 
+## Statistics
+
+The IETF Moderators team maintain the statistics of its actions at [Stats](stats.md).
+
 ---
 [RFC 9245]: https://www.rfc-editor.org/rfc/rfc9245.html/
 [Contributor Covenant]: https://www.contributor-covenant.org/
