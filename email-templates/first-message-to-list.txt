@@ -1,6 +1,6 @@
 Hi all,
 
-We wanted to let the list know that the Moderators team for ietf@ietf.org (described in more detail at [1]) has been in touch with [NAME] off-list concerning their recent messages [2][3]. We encourage everyone to review the IETF discussion list charter [4] and avoid postings that include uncivil commentary [5]. 
+We wanted to let the list know that the Moderators team for ietf@ietf.org (described in more detail at [1]) has been in touch with [NAME] off-list concerning their recent messages [2][3] with a request to take a voluntary cooling-off break. We encourage everyone to review the IETF discussion list charter [4] and avoid postings that include uncivil commentary [5]. 
 
 Thanks,
 [NAME] on behalf of the Moderators team for ietf@ietf.org
