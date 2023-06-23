@@ -1,6 +1,6 @@
 # IETF Moderators Team Statistics
 
-| \ | L0 | L1 | L2 | Unique Individuals |
+| \ | Level 0 | Level 1 | Level 2 | Unique individuals per year |
 | -------- | -------- | -------- | --- | --- |
 | 2023     | 3 | 1 | 0| 4 |
 | 2022     |   6 | 1 | 1 | 6 |
