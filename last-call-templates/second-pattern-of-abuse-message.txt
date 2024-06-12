@@ -13,7 +13,7 @@ Given our correspondence with you on [DATE] and [DATE], we believe you are engag
 Thanks,
 [NAME] on behalf of the Team for last-call@ietf.org
 
-[1] https://www.ietf.org/how/lists/discussion/
+[1] https://www.ietf.org/how/lists/last-call/
 [2] https://www.rfc-editor.org/rfc/rfc9245.html
 [3] [LINK to specific message]
 [4] https://github.com/ietf/Moderators/blob/main/unprofessional-commentary.md

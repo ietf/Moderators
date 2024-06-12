@@ -15,7 +15,7 @@ If you wish for us to make this message public, please let us know and we will r
 Thanks,
 [NAME] on behalf of the Team for last-call@ietf.org
 
-[1] https://www.ietf.org/how/lists/discussion/
+[1] https://www.ietf.org/how/lists/last-call/
 [2] https://www.rfc-editor.org/rfc/rfc9245.html
 [3] [LINK to specific message]
 [4] https://github.com/ietf/Moderators/blob/main/unprofessional-commentary.md

@@ -10,6 +10,6 @@ We consider this an initial suggestion. We do not believe your message is part o
 Thanks,
 [NAME] on behalf of the Team for last-call@ietf.org
 
-[1] https://www.ietf.org/how/lists/discussion/
+[1] https://www.ietf.org/how/lists/last-call/
 [2] [LINK to specific message]
 [3] https://www.rfc-editor.org/rfc/rfc9245.html
