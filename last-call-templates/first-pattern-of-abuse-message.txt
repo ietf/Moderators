@@ -1,0 +1,21 @@
+Hi [NAME],
+
+I am writing to you on behalf of the Moderators team for ietf@ietf.org. This message has been vetted with others on the Moderators team, which is described in more detail at [1] and [2].
+
+We are reaching out to you because of your recent message to ietf@ietf.org [3]. The message contained the following language:
+
+[LANGUAGE]
+
+which the Moderators team considers uncivil commentary [4] for [REASON]. Please try to avoid using this kind of language on ietf@ietf.org in the future. We are happy to discuss suggestions for how to convey the same message in an appropriate way if you would like to discuss that.
+
+We are concerned that this message is part of an emerging pattern of abuse on your part, given our previous correspondence with you on [DATE]. As such, we request that you take a voluntary 5-day break from posting to ietf@ietf.org. We will be notifying ietf@ietf.org that we have been in touch with you. If we continue to see this pattern, we will consider temporarily restricting your posting rights to ietf@ietf.org.
+
+If you wish for us to make this message public, please let us know and we will re-send it with ietf@ietf.org on cc.
+
+Thanks,
+[NAME] on behalf of the Moderators team for ietf@ietf.org
+
+[1] https://www.ietf.org/how/lists/discussion/
+[2] https://www.rfc-editor.org/rfc/rfc9245.html
+[3] [LINK to specific message]
+[4] https://github.com/ietf/Moderators/blob/main/unprofessional-commentary.md

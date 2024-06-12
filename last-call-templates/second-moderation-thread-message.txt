@@ -1,0 +1,16 @@
+Hi [NAME],
+
+I am writing to you on behalf of the Moderators team for ietf@ietf.org. This message has been vetted with others on the Moderators team, which is described in more detail at [1] and [2].
+
+We are reaching out to you because of your recent message to ietf@ietf.org [3] under a new subject line but on the same topic against the direction from the IETF Chair [4]. 
+
+Given our correspondence with you on [DATE], we believe you are engaging in a pattern of abuse that warrants a temporary restriction of your posting rights. Your posting rights will be restricted for the next 14 days and we will notify ietf@ietf.org of the restriction as per our SOP [5]. 
+
+Thanks,
+[NAME] on behalf of the Moderators team for ietf@ietf.org
+
+[1] https://www.ietf.org/how/lists/discussion/
+[2] https://www.rfc-editor.org/rfc/rfc9245.html
+[3] [LINK to specific message]
+[4] [LINK to the IETF chair message to the list]
+[5] https://github.com/ietf/Moderators/blob/main/sop.md
