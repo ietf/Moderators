@@ -1,9 +1,9 @@
 Hi all,
 
-We wanted to let the list know that the Moderators team for ietf@ietf.org (described in more detail at [1]) has determined that [NAME] has engaged in a pattern of abuse based on their recent messages to this list [2][3]. Their posting rights to the ietf@ietf.org mailing list have been restricted for the next 14 days.  We encourage everyone to review the IETF discussion list charter [4] and avoid postings that include uncivil commentary [5]. 
+We wanted to let the list know that the Team for last-call@ietf.org (described in more detail at [1]) has determined that [NAME] has engaged in a pattern of abuse based on their recent messages to this list [2][3]. Their posting rights to the last-call@ietf.org mailing list have been restricted for the next 14 days.  We encourage everyone to review the IETF discussion list charter [4] and avoid postings that include uncivil commentary [5]. 
 
 Thanks,
-[NAME] on behalf of the Moderators team for ietf@ietf.org
+[NAME] on behalf of the Team for last-call@ietf.org
 
 [1] https://www.ietf.org/how/lists/discussion/
 [2] [LINK to specific message 1]

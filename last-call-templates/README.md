@@ -1,6 +1,6 @@
 # Email Templates
 
-These are the templates used by the Moderators to communicate with individuals and the list about an incident, grouped by escalation level, then by category (where applicable) and intended recipient.
+These are the templates used by the Last Call team to communicate with individuals and the list about an incident, grouped by escalation level, then by category (where applicable) and intended recipient.
 
 ## Level 0: Initial suggestion
 

@@ -1,11 +1,11 @@
 Hi all,
 
-We wanted to let the list know that the Moderators team (described in more detail at [1]) consider this thread [2] to be more appropriate for this [LIST][3]. And as per the IETF discussion list charter [4], we suggest that the discussions should be moved to the more specific forum identified. 
+We wanted to let the list know that the Last Call team (described in more detail at [1]) consider this thread [2] to be more appropriate for this [LIST][3]. And as per the IETF discussion list charter [4], we suggest that the discussions should be moved to the more specific forum identified. 
 
-[The Moderators team has been in touch with the [LIST] administers off-list.] (if required)
+[The Last Call team has been in touch with the [LIST] administers off-list.] (if required)
 
 Thanks,
-[NAME] on behalf of the Moderators team for ietf@ietf.org
+[NAME] on behalf of the Team for last-call@ietf.org
 
 [1] https://www.ietf.org/how/lists/discussion/
 [2] [LINK to thread]

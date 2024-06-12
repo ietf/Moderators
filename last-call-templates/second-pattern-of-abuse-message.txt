@@ -1,17 +1,17 @@
 Hi [NAME],
 
-I am writing to you on behalf of the Moderators team for ietf@ietf.org. This message has been vetted with others on the Moderators team, which is described in more detail at [1] and [2].
+I am writing to you on behalf of the Team for last-call@ietf.org. This message has been vetted with others on the Last Call team, which is described in more detail at [1] and [2].
 
-We are reaching out to you because of your recent message to ietf@ietf.org [3]. The message contained the following language:
+We are reaching out to you because of your recent message to last-call@ietf.org [3]. The message contained the following language:
 
 [LANGUAGE]
 
-which the Moderators team considers uncivil commentary [4] for [REASON]. 
+which the Last Call team considers uncivil commentary [4] for [REASON]. 
 
-Given our correspondence with you on [DATE] and [DATE], we believe you are engaging in a pattern of abuse that warrants a temporary restriction of your posting rights. Your posting rights will be restricted for the next 14 days and we will notify ietf@ietf.org of the restriction. We remain happy to discuss suggestions for how to convey your messages in an appropriate way if you would like to discuss that during this time.
+Given our correspondence with you on [DATE] and [DATE], we believe you are engaging in a pattern of abuse that warrants a temporary restriction of your posting rights. Your posting rights will be restricted for the next 14 days and we will notify last-call@ietf.org of the restriction. We remain happy to discuss suggestions for how to convey your messages in an appropriate way if you would like to discuss that during this time.
 
 Thanks,
-[NAME] on behalf of the Moderators team for ietf@ietf.org
+[NAME] on behalf of the Team for last-call@ietf.org
 
 [1] https://www.ietf.org/how/lists/discussion/
 [2] https://www.rfc-editor.org/rfc/rfc9245.html
