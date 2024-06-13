@@ -4,6 +4,10 @@
 
 The Last Call team can be reached by emailing [last-call-owner@ietf.org](mailto:last-call-owner@ietf.org).
 
+Current team members are:
+* Bron Gondwana <[brong@fastmailteam.com](mailto:brong@fastmailteam.com)>
+* Jared Mauch <[jared@puck.nether.net](mailto:jared@puck.nether.net)>
+
 ## General operations
 
 The Last Call team strive to monitor all postings on last-call@ietf.org on a daily basis. The IETF Chair also monitors the list but may not be in a position to read each message or monitor every day.
