@@ -1,0 +1,15 @@
+
+Hi [NAME],
+
+I am writing to you on behalf of the Team for last-call@ietf.org. This message has been vetted with others on the Last Call team, which is described in more detail at [1].
+
+We are reaching out to you because of your recent message to last-call@ietf.org [2]. The message is not in scope of the IETF Discussion List Charter as per [3]. Please try to avoid sending these messages on last-call@ietf.org in the future. 
+
+We consider this an initial suggestion. We do not believe your message is part of a pattern of abuse that would warrant the restriction of your posting rights. If a pattern emerges, we will consider temporarily restricting your posting rights to last-call@ietf.org.
+
+Thanks,
+[NAME] on behalf of the Team for last-call@ietf.org
+
+[1] https://www.ietf.org/how/lists/last-call/
+[2] [LINK to specific message]
+[3] https://www.rfc-editor.org/rfc/rfc9245.html

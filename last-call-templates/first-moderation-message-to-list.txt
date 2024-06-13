@@ -1,0 +1,12 @@
+Hi all,
+
+We wanted to let the list know that the Team for last-call@ietf.org (described in more detail at [1]) has been in touch with [NAME] off-list concerning their recent message [2] to last-call@ietf.org under a new subject line but on the same topic against the direction from the IETF Chair [3]. We encourage everyone to review the IETF list charter [4] and our SOP [5]. 
+
+Thanks,
+[NAME] on behalf of the Team for last-call@ietf.org
+
+[1] https://www.ietf.org/how/lists/last-call/
+[2] [LINK to specific message]
+[3] [LINK to the IETF chair message to the list]
+[4] https://www.rfc-editor.org/rfc/rfc9245.html
+[5] https://github.com/ietf/Moderators/blob/main/sop.md
