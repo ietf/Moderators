@@ -4,6 +4,11 @@
 
 The Moderators team can be reached at moderators@ietf.org. 
 
+Current team members are:
+* Chris Box <[chris.box.ietf@gmail.com](mailto:chris.box.ietf@gmail.com)>
+* Mary Barnes <[mary.ietf.barnes@gmail.com](mailto:mary.ietf.barnes@gmail.com)>
+* Mohit P. Tahiliani <[tahiliani@nitk.edu.in](mailto:tahiliani@nitk.edu.in)>
+
 ## General operations
 
 The Moderators strive to monitor all postings on ietf@ietf.org on a daily basis. The IETF Chair also monitors the list but may not be in a position to read each message or monitor every day.
