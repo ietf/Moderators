@@ -7,7 +7,7 @@ While [RFC 9245] creates the role of Moderators for the ietf@ietf.org mailing li
 
 * [Standard Operating Procedures](sop.md) outlines how and when the Moderators engages with inappropriate postings, including escalation paths.
 * [Templates](email-templates) that engagement messages from the Moderators adhere to.
-* A definition of [Uncivil Commentary](unprofessional-commentary.md) the Moderators follows.
+* A definition of [Uncivil Commentary](uncivil-commentary.md) the Moderators follows.
 
 This set of documents is considered a work-in-progress, and is expected to evolve to meet the needs of the IETF.
 
