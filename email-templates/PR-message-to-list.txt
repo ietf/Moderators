@@ -9,4 +9,4 @@ Thanks,
 [2] [LINK to specific message 1]
 [3] [LINK to specific message 2]
 [4] https://www.rfc-editor.org/rfc/rfc9245.html
-[5] https://github.com/ietf/Moderators/blob/main/unprofessional-commentary.md
+[5] https://github.com/ietf/Moderators/blob/main/uncivil-commentary.md
