@@ -16,4 +16,4 @@ Thanks,
 [1] https://www.ietf.org/how/lists/discussion/
 [2] https://www.rfc-editor.org/rfc/rfc9245.html
 [3] [LINK to specific message]
-[4] https://github.com/ietf/Moderators/blob/main/unprofessional-commentary.md
+[4] https://github.com/ietf/Moderators/blob/main/uncivil-commentary.md
