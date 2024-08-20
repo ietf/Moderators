@@ -1,5 +1,5 @@
 
-Hi [NAME],
+[NAME],
 
 I am writing to you on behalf of the Moderators team for ietf@ietf.org. This message has been vetted with others on the Moderators team, which is described in more detail at [1].
 
