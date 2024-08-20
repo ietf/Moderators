@@ -40,7 +40,7 @@ Subject to the approval by the IETF Chair, the Moderators team member also infor
 
 ### Immediate escalation in egregious cases
 
-In cases where postings contain egregious language, the Moderators team has the discretion to skip level 0 and go straight to level 1 or 2. For example, a posting that says "I'm coming to murder you and your family" would warrant an immediate escalation to level 2.
+In cases where postings contain egregious language, the Moderators team has the discretion to skip level 0 and go straight to level 1 or 2.
 
 ## Finding a more specific forum
 
