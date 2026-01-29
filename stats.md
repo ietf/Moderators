@@ -2,6 +2,7 @@
 
 | \ | Level 0 | Level 1 | Level 2 | Unique individuals per year |
 | ----- | - | - | - | - |
+| 2026  | 1 | 0 | 0 | 1 |
 | 2025  | 5 | 2 | 0 | 6 |
 | 2024  | 7 | 1 | 1 | 7 |
 | 2023  | 8 | 1 | 0 | 8 |
@@ -11,4 +12,4 @@
 
 (*) 3 additional actions were taken when a thread was put under moderation but rescinded.
 
-Since 2020, we have reached out to 26 unique individuals.
+Since 2020, we have reached out to 27 unique individuals.
