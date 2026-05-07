@@ -2,13 +2,15 @@
 
 | \ | Level 0 | Level 1 | Level 2 | Unique individuals per year |
 | ----- | - | - | - | - |
-| 2026  | 3 | 0 | 0 | 2 |
+| 2026  | 4 | 0 | 0 | 2 |
 | 2025  | 5 | 2 | 0 | 6 |
 | 2024  | 7 | 1 | 1 | 7 |
 | 2023  | 8 | 1 | 0 | 8 |
 | 2022  | 6 | 1 | 1 | 6 |
 | 2021  | 3 | 0 | 0 | 3 | 
 | 2020* | 5 | 1 | 0 | 5 |
+
+The above figures do not include actions taken due to spam or disruption.
 
 (*) 3 additional actions were taken when a thread was put under moderation but rescinded.
 
